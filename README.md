@@ -5,6 +5,19 @@ Catatan:
 1. Javascript adalah chase sensitive.
 2. Boolean pada sting adalah chase sensitive.
 
+Menghubungkan js dengan html
+<br>
+internal
+<br>
+<script>
+  kode script
+</script>
+<br>
+external
+<br>
+<script src="folder/namascript.js"></script>
+
+<br>
 Properti:
 1. Length= menghitung jumlah karakter. Spasi dan karakter lain juga dihitung. Contoh: "Purbalingga".length = 11
 
