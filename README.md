@@ -6,7 +6,7 @@ Catatan:
 2. Boolean pada sting adalah chase sensitive.
 
 Properti:
-1. Length= menghitung jumlah karakter. Spasi dan karakter lain juga dihitung. Contoh: "Purbalingga".Length = 11
+1. Length= menghitung jumlah karakter. Spasi dan karakter lain juga dihitung. Contoh: "Purbalingga".length = 11
 
 Special Character pada JavaScript
 1. \t = tab (Memberi jarak tab yang lebih lebar daripada spasi).
